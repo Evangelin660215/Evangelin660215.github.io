@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: Vincent Van Gogh
 subheading: A awesome static site generator.
 author: Jeffrey
 categories: jekyll
@@ -16,7 +16,7 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: wenstern history of art
 sidebar: []
 ---
 
